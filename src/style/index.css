@@ -454,7 +454,7 @@ img {
 }
 @media (max-width: 900px) {
   .home ul {
-    left: 0;
+    left: -44px !important;
   }
 }
 .home ul a {

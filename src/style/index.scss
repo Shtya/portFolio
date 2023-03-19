@@ -441,7 +441,7 @@ img {
     position: relative;
     left: -60px;
     @include mobile{
-      left: 0;
+      left: -44px !important;
     }
     a{
     @include mobile{
