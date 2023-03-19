@@ -26,18 +26,18 @@ const Home = () => {
           <span className="bullet_5"></span>
             <span className="bullet_6"></span>
             <ul>
-          <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100008364883535"><i className="fa-brands fa-facebook"></i></a></li>
-          <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox"><i className="fa-solid fa-envelope"></i></a></li>
-          <li><a target="_blank" href="https://wa.me/01551495772"><i className="fa-brands fa-whatsapp"></i></a></li>
-          <li><a target="_blank" href="https://github.com/Shtya"><i className="fa-brands fa-github"></i></a></li>
-          <li><a target="_blank" href="https://www.linkedin.com/in/ahmed-abdelrhman-78bb18230/"><i className="fa-brands fa-linkedin"></i></a></li>
+          <a target="_blank" href="https://www.facebook.com/profile.php?id=100008364883535">  <i className="fa-brands fa-facebook"></i><h1>Facebook</h1></a>
+          <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">  <i className="fa-solid fa-envelope"></i><h1>E-mail</h1></a>
+          <a target="_blank" href="https://wa.me/01551495772">  <i className="fa-brands fa-whatsapp"></i><h1>Whatsapp</h1></a>
+          <a target="_blank" href="https://github.com/Shtya"><i className="fa-brands fa-github"></i> <h1>Github</h1> </a>
+          <a target="_blank" href="https://www.linkedin.com/in/ahmed-abdelrhman-78bb18230/">  <i className="fa-brands fa-linkedin"></i><h1>Linkedin</h1></a>
             </ul>
           </span>
           <span className="line_2">
           <span className="bullet_1"></span>
           <span className="bullet_2"></span>
             <span className="bullet_3"></span>
-            <a className='Download' href="AhmedShtya.pdf" download>Download CV</a>
+            <a className='Download' href="AhmedShtya.pdf" download>Download CV <span></span></a>
 
           </span>
           
